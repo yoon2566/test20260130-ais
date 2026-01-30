@@ -1,0 +1,5 @@
+{
+  "name": "Sky Defender AI",
+  "description": "A fast-paced arcade shooter where you defend the skies. Your piloting skills are analyzed by Gemini AI after each mission.",
+  "requestFramePermissions": []
+}
